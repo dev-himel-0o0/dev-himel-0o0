@@ -7,7 +7,7 @@
 
 ### About This Workspace
 
-Over the past 4+ years, the vast majority of my production code has been shipped inside private enterprise and client repositories.
+Over the past **4+ years**, the vast majority of my production code has been shipped inside private enterprise and client repositories.
 
 This public workspace documents my current full-stack and AI engineering R&D—focusing on distributed backend architectures, end-to-end type safety, and agentic product workflows. Everything published here is built to explore production-grade system design, performance boundaries, and modern developer tooling.
 
