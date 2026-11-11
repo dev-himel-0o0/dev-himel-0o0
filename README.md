@@ -1,5 +1,3 @@
-# Himel
-
 **Frontend & Full-Stack Software Engineer**
 4+ years of commercial experience architecting fast, accessible, and scalable web applications.
 
