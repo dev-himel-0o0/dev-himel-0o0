@@ -8,16 +8,15 @@
 
 <br/>
 
-**Full-Stack Software Engineer**
-4+ years of professional experience architecting fast, accessible, and scalable web applications.
-
 ## About Me
 
-Over the past **4+ years**, the vast majority of my production code has been shipped inside private enterprise and client repositories.
+**Full-Stack Software Engineer with 4+ years of professional experience** designing and delivering high-performance, accessible, and scalable web applications. Much of my production experience comes from building and maintaining software for enterprise environments and client projects through private repositories.
 
 This public workspace documents my current full-stack and AI engineering R&D—focusing on distributed backend architectures, end-to-end type safety, and agentic product workflows. Everything published here is built to explore production-grade system design, performance boundaries, and modern developer tooling.
 
-- **Frontend Architecture:** TypeScript, React, Next.js (App Router / SSR), Redux Toolkit, Angular, Tailwind CSS, React Native (Expo)
+### Technical Expertise & Technology Stack
+
+- **Frontend Architecture:** TypeScript, React, Next.js (App Router / SSR), Redux Toolkit, Tailwind CSS, React Native (Expo)
 - **Backend & Database Systems:** Node.js, Express, NestJS, PostgreSQL, Prisma ORM, MongoDB, Mongoose, Redis, REST & GraphQL APIs
 - **AI & DevOps Workflow:** LLM Agent Orchestration, RAG Pipelines, Model Context Protocol (MCP), Docker, GitHub Actions CI/CD, AWS, Linux (WSL2)
 
