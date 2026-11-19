@@ -16,10 +16,13 @@ This public workspace documents my current full-stack and AI engineering R&D—f
 
 ### Professional Experience
 
-**Frontend Engineer — [Cartup](https://cartup.com)**
+**Software Engineer — [TechnoNext](https://technonext.com)** _(previous role)_
 
-- **Customer Site:** Built and maintained the customer-facing e-commerce experience on cartup.com.
-- **Admin & Operations Tooling:** Developed the Admin Dashboard, Seller Dashboard, Logistics Dashboard, and Accounting Dashboard, plus the admin functionality that powers them.
+Worked on [Cartup](https://cartup.com), a TechnoNext e-commerce product:
+
+- **E-commerce Platform:** Built and maintained customer-facing features for cartup.com.
+- **Business Operations:** Developed and maintained internal dashboards for Admin, Sellers, Logistics, and Accounting.
+- **Product Engineering:** Contributed to scalable, maintainable frontend architecture and production application development.
 
 ### My Contribution to the Developer Community
 
