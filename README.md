@@ -14,11 +14,23 @@
 
 This public workspace documents my current full-stack and AI engineering R&D—focusing on distributed backend architectures, end-to-end type safety, and agentic product workflows. Everything published here is built to explore production-grade system design, performance boundaries, and modern developer tooling.
 
-### Technical Expertise & Technology Stack
+### Professional Experience
 
-- **Frontend Architecture:** TypeScript, React, Next.js (App Router / SSR), Redux Toolkit, Tailwind CSS, React Native (Expo)
-- **Backend & Database Systems:** Node.js, Express, NestJS, PostgreSQL, Prisma ORM, MongoDB, Mongoose, Redis, REST & GraphQL APIs
-- **AI & DevOps Workflow:** LLM Agent Orchestration, RAG Pipelines, Model Context Protocol (MCP), Docker, GitHub Actions CI/CD, AWS, Linux (WSL2)
+**Frontend Engineer — [Cartup](https://cartup.com)**
+
+- **Customer Site:** Built and maintained the customer-facing e-commerce experience on cartup.com.
+- **Admin & Operations Tooling:** Developed the Admin Dashboard, Seller Dashboard, Logistics Dashboard, and Accounting Dashboard, plus the admin functionality that powers them.
+
+### My Contribution to the Developer Community
+
+I build small, focused tools that remove friction for other developers and make best practices the default.
+
+**VS Code Extensions** — two published tools with **159,000+ combined Marketplace installs**:
+
+- **[Web Dev](https://marketplace.visualstudio.com/items?itemName=c0der-himel.vscode-wev-dev-extension-pack)** — a one-install extension pack that turns a fresh editor into a complete frontend environment with 23 curated extensions for HTML, CSS, JavaScript, React, Tailwind CSS, Git, linting, and formatting. **89,000+ installs.**
+- **[Remove Console Log](https://marketplace.visualstudio.com/items?itemName=c0der-himel.remove-console-log)** — removes every `console.log` from the active file in one command. Syntax-aware parsing handles nested calls, multi-line arguments, JSX, and TypeScript without breaking code or control flow. **69,000+ installs.**
+
+**Open Source — [Fix Your First Bug](https://github.com/dev-himel-0o0/fix-your-first-bug)** ([live demo](https://fix-your-first-bug.vercel.app/)): A deliberately small Next.js playground with three intentionally broken TypeScript functions. First-time contributors fix one bug and practice the real fork → branch → commit → pull request workflow, with instant visual feedback and CI on every PR, in a codebase small enough to understand in one sitting. It gives beginners a safe place to build confidence before stepping into larger open-source projects — and a repeatable workflow they can use on every contribution that follows.
 
 ### Engineering Principles
 
@@ -34,37 +46,22 @@ This public workspace documents my current full-stack and AI engineering R&D—f
 
 ## Skills & Technologies
 
-### Frontend Development
+### Languages & Frameworks
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-000000?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-
-### Backend Development
-
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Databases & ORMs
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)
 
 ### AI Engineering
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-
 ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
 ![Vector Databases](https://img.shields.io/badge/Vector_Databases-000000?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
